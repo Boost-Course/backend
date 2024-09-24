@@ -1,0 +1,23 @@
+# 5주차 질문
+- GC stop the world 가 발생하는 이유가 무엇인가요?
+- 스레드 메모리 공유에 대해서 알려주세요.
+- volatile 키워드에 대해서 알려주세요.
+- race condition에 대해서 설명해주세요.
+- TCP 신뢰성을 보장하는 방법에 대해서 알려주세요.
+- var, 타입 추론에 대해서 알려주세요.
+- 인터페이스의 private method 에 대해서 설명해주세요.
+- 멀티 스레드가 어떻게 동작하는지 설명해주세요.
+- 스트림의 종단 연산에는 어떤 것들이 있는지 알려주세요.
+- 공변과 불공변에 대해서 설명해주세요. List<String>은 List<Object>의 하위 타입인가요?
+- 데몬 쓰레드는 무엇인가 ?
+- 스트림과 버퍼의 차이는?
+- BufferedReader 생성자에서 매개변수로 Reader를 또 받는 이유는? BufferedReader br = new BufferedReader(표준입력) 이렇게 하지 않고 BufferedReader br = new BufferedReader(new InputStreamReader(표준입력)) 이렇게 생성하는 이유는 ?
+- Try with resource가 무엇인가요 
+- Try catch finally를 사용하지 않고 try with resource를 사용할 때 장점은??
+- Flush 하고 close 해야하는 이유?
+- BufferedWriter의 경우 flush() 하지 않고 close()만 해도 되는 이유는 ?
+- HTTP 통신과 소켓 통신의 차이는 ?
+- JDBC 라는 것이 무엇인가 ?
+- JDBC에서 쿼리를 수행하는 방법이 2가지가 있는데 하나는 Statement를 사용하는 것과 PreparedStatement를 사용하는 것이다. 차이점이 무엇인가?
+- classpath의 역할은 ?
+- 재정의한 interface의 메소드의 접근제어자를 private 아니면 protected로 했을 경우 컴파일 에러가 나는 이유는 ?
